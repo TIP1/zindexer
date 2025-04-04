@@ -2,10 +2,11 @@
     .name = "zindexer",
     .version = "0.1.0",
     .minimum_zig_version = "0.14.0",
+    .fingerprint = 0xe84b558b24b2991b,
     .dependencies = .{
         .@"c-questdb-client" = .{
             .url = "https://github.com/openSVM/c-questdb-client/archive/refs/tags/4.0.4.tar.gz",
-            .hash = "1220ffdabd90f696e3d850485b2eae8df806173a9ab6f50ae4fbb708928d06037145",
+            .hash = "1220adc1aa8c980f983e45ee3221b4428a6231395a6412f100f07cc8556394d9196d",
         },
     },
     .paths = .{
